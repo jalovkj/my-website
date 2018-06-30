@@ -2,6 +2,4 @@
 
 This is just for testing.
 
-Now editing on update-readme branch.
-
-Updated locally.
+Updates made on master on GitHub before rebase.
